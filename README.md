@@ -9,7 +9,9 @@ Les codes permettant de manipuler et analyser les fichiers de séquence. Pour ch
 Les éléments requis pour utiliser les codes : 
 
 - Les fichiers fasta
-- Les fichiers d'annotations associés à ces fasta 
+- Les fichiers d'annotations associés à ces fasta
+- Fichiers .dat
+- Fichiers .hmm
 
 ### Lancement
 
