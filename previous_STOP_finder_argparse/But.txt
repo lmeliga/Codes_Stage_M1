@@ -1,0 +1,1 @@
+Récupérer le codon STOP existant avant l'insertion de l'intron.
