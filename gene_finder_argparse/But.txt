@@ -1,0 +1,1 @@
+Le but de gene_finder_argparse est de chercher dans le fichier gff en question si un gène que vous recherchez y est présent et de l'afficher (toute sa ligne) en sortie
