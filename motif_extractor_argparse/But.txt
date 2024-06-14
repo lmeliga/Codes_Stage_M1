@@ -1,0 +1,1 @@
+motif_extractor_argparse permet de lire un fichier dat (entre autres) avec une certaine structure et permet de filtrer et d'avoir uniquement les élements d'intérêt dans un nouveau fichier créé pour cela. Beaucoup plus d'informations sont données dans le code en lui-même en commentaires
