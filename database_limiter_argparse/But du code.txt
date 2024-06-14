@@ -1,0 +1,1 @@
+J'ai codé un programme "database_limiter" (en quelque sorte une extension du motif_extractor) : à partir d'un document (filtré ou non par motif_extractor), on filtre de la même manière le document avec les hmm 
