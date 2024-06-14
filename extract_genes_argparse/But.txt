@@ -1,0 +1,1 @@
+Permet à partir d'un fichier fasta et de son fichier d'annotations gff, de pouvoir dire quelle partie de la séquence correspond à quel gène
