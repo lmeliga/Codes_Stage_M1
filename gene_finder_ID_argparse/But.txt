@@ -1,0 +1,1 @@
+Permet, à partir de l'identifiant d'un gène trouvé grâce à extract_genes_argparse, d'obtenir la ligne complète du gène en questions dans le fichier d'annotations
