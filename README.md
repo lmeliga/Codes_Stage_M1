@@ -1,5 +1,5 @@
 # Codes_Stage_M1
-Contient les codes de Lévy Méliga Yonguet pour son stage de Master 1 (Promotion 2023-2024).
+Ce répertoire contient les codes de Lévy Méliga Yonguet pour son stage de Master 1 (Promotion 2023-2024).
 
 ## Les éléments présents 
 Les codes permettant de manipuler et analyser les fichiers de séquence. Pour chaque code, il y aura sa version executable et sa version non exécutable. Cette dernière n'a pas pour but d'être utilisée, mais c'est pour que vous puissiez observer le code (si vous le souhaitez) sachant que des commentaires et explications y sont présents.
